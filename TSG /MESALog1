@@ -1,4 +1,4 @@
-TSG / MESA Reverse Engineering & Analysis Session Log
+mesalab / MESA Reverse Engineering & Analysis Session Log
 Date: 2026-03-03
 Environment: Kali Linux (VirtualBox Air‑Gapped VM)
 Objective: Explore and understand the structure and runtime behavior of the MESA/TSG system extracted from mesalab_git.tar.zst
